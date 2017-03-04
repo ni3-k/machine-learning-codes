@@ -1,3 +1,6 @@
+""" Using machine learning models to classify genders based on height, weight and shoesize
+as seen on https://www.youtube.com/watch?v=T5pRlIbr6gg """
+
 from sklearn import tree, neighbors, svm, ensemble
 from sklearn.metrics import accuracy_score
 
